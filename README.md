@@ -1,0 +1,4 @@
+- 👋 oi, me chamo Juan
+- 👀 eu estudo programaçao expecificamente python 
+- 📫 https://www.instagram.com/juan_trajano7/
+- 😄 Pronouns:ele/dele
